@@ -36,7 +36,6 @@
             lblGold = new Label();
             lblExperience = new Label();
             lblLevel = new Label();
-            btnTest = new Button();
             SuspendLayout();
             // 
             // label1
@@ -47,7 +46,6 @@
             label1.Size = new Size(75, 20);
             label1.TabIndex = 0;
             label1.Text = "Hit Points:";
-            label1.Click += label1_Click;
             // 
             // label2
             // 
@@ -108,22 +106,11 @@
             lblLevel.Size = new Size(0, 20);
             lblLevel.TabIndex = 7;
             // 
-            // btnTest
-            // 
-            btnTest.Location = new Point(209, 249);
-            btnTest.Name = "btnTest";
-            btnTest.Size = new Size(94, 29);
-            btnTest.TabIndex = 8;
-            btnTest.Text = "Test";
-            btnTest.UseVisualStyleBackColor = true;
-            btnTest.Click += btnTest_Click;
-            // 
             // SuperAdventure
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(717, 643);
-            Controls.Add(btnTest);
             Controls.Add(lblLevel);
             Controls.Add(lblExperience);
             Controls.Add(lblGold);
@@ -134,7 +121,6 @@
             Controls.Add(label1);
             Name = "SuperAdventure";
             Text = "My Game";
-            Load += SuperAdventure_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -149,6 +135,5 @@
         private Label lblGold;
         private Label lblExperience;
         private Label lblLevel;
-        private Button btnTest;
     }
 }
