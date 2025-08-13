@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Ryan\u0027s Collegesona\\source\\repos\\Open-Source-C-Roleplaying-Game\\SuperAdventure\\SuperAdventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{163895D3-CD37-4711-8EFE-55C3CE982438}|Engine\\Engine.csproj|c:\\users\\ryan\u0027s collegesona\\source\\repos\\open-source-c-roleplaying-game\\superadventure\\superadventure\\engine\\models\\livingcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{163895D3-CD37-4711-8EFE-55C3CE982438}|Engine\\Engine.csproj|solutionrelative:engine\\models\\livingcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{163895D3-CD37-4711-8EFE-55C3CE982438}|Engine\\Engine.csproj|c:\\users\\ryan\u0027s collegesona\\source\\repos\\open-source-c-roleplaying-game\\superadventure\\superadventure\\engine\\models\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{163895D3-CD37-4711-8EFE-55C3CE982438}|Engine\\Engine.csproj|solutionrelative:engine\\models\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{875B606B-085E-4EF4-82AC-326D68C8F744}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\ryan\u0027s collegesona\\source\\repos\\open-source-c-roleplaying-game\\superadventure\\superadventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875B606B-085E-4EF4-82AC-326D68C8F744}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{163895D3-CD37-4711-8EFE-55C3CE982438}|Engine\\Engine.csproj|c:\\users\\ryan\u0027s collegesona\\source\\repos\\open-source-c-roleplaying-game\\superadventure\\superadventure\\engine\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Monster.cs",
-              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\source\\repos\\Open-Source-C-Roleplaying-Game\\SuperAdventure\\SuperAdventure\\Engine\\Models\\Monster.cs",
-              "RelativeDocumentMoniker": "Engine\\Models\\Monster.cs",
-              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\source\\repos\\Open-Source-C-Roleplaying-Game\\SuperAdventure\\SuperAdventure\\Engine\\Models\\Monster.cs",
-              "RelativeToolTip": "Engine\\Models\\Monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SuperAdventure.cs",
+              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\source\\repos\\Open-Source-C-Roleplaying-Game\\SuperAdventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
+              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\source\\repos\\Open-Source-C-Roleplaying-Game\\SuperAdventure\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T15:01:31.522Z",
+              "WhenOpened": "2025-08-13T15:13:36.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\source\\repos\\Open-Source-C-Roleplaying-Game\\SuperAdventure\\SuperAdventure\\Engine\\Models\\Player.cs",
               "RelativeDocumentMoniker": "Engine\\Models\\Player.cs",
               "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\source\\repos\\Open-Source-C-Roleplaying-Game\\SuperAdventure\\SuperAdventure\\Engine\\Models\\Player.cs",
               "RelativeToolTip": "Engine\\Models\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T15:01:22.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LivingCreature.cs",
-              "DocumentMoniker": "C:\\Users\\Ryan\u0027s Collegesona\\source\\repos\\Open-Source-C-Roleplaying-Game\\SuperAdventure\\SuperAdventure\\Engine\\Models\\LivingCreature.cs",
-              "RelativeDocumentMoniker": "Engine\\Models\\LivingCreature.cs",
-              "ToolTip": "C:\\Users\\Ryan\u0027s Collegesona\\source\\repos\\Open-Source-C-Roleplaying-Game\\SuperAdventure\\SuperAdventure\\Engine\\Models\\LivingCreature.cs",
-              "RelativeToolTip": "Engine\\Models\\LivingCreature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T15:01:08.08Z",
+              "WhenOpened": "2025-08-13T15:13:05.543Z",
               "EditorCaption": ""
             }
           ]

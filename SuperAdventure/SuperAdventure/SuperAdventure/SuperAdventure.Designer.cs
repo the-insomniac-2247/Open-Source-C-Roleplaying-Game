@@ -121,6 +121,7 @@
             Controls.Add(label1);
             Name = "SuperAdventure";
             Text = "My Game";
+            Load += SuperAdventure_Load;
             ResumeLayout(false);
             PerformLayout();
         }
