@@ -1,0 +1,12 @@
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\bin\Debug\net9.0\Engine.deps.json
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\bin\Debug\net9.0\Engine.dll
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\bin\Debug\net9.0\Engine.pdb
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\obj\Debug\net9.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\obj\Debug\net9.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\obj\Debug\net9.0\Engine.AssemblyInfo.cs
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\obj\Debug\net9.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\obj\Debug\net9.0\Engine.sourcelink.json
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\obj\Debug\net9.0\Engine.dll
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\obj\Debug\net9.0\refint\Engine.dll
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\obj\Debug\net9.0\Engine.pdb
+C:\Users\Ryan's Collegesona\source\repos\Open-Source-C-Roleplaying-Game\SuperAdventure\SuperAdventure\Engine\obj\Debug\net9.0\ref\Engine.dll
